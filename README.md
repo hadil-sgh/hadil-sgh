@@ -1,5 +1,5 @@
 <div align='center'>
-  ### Hi there, Hello Fellow! 👋
+<h1> Hello Fellow < Developers/ >! <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 </div>
 
 <div size='30px'> Hi! My name is Hadil Sghair and I'm a software engineering student from Tunisia. Thank you for taking the time to view my GitHub profile! 😊
