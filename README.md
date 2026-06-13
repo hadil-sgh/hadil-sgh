@@ -29,6 +29,3 @@ I build end-to-end systems combining applied AI, full-stack engineering, and Dev
 ![](https://streak-stats.demolab.com/?user=hadil-sgh&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hadil-sgh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-[![](https://komarev.com/ghpvc/?username=hadil-sgh&color=7c3aed&style=flat-square)](https://visitcount.itsvg.in)
